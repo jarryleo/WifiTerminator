@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wifi 小钥匙</string>
+    <string name="rescan">重新扫描</string>
+    <string name="inputpsw">请输入密码:</string>
+</resources>
